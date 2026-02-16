@@ -1,7 +1,20 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br>AI/ML projects using Python, improving a Movie Recommender System, and building strong fundamentals in data structures, ML algorithms, and real-world problem solving.<br><br>👯 I’m looking to collaborate on<br>Beginner-to-intermediate AI/ML projects, data analysis projects, hackathons, and open-source repos where learning + execution matter more than buzzwords.<br><br>🤝 I’m looking for help with<br>Improving ML project structure, model evaluation, research direction, and understanding how to turn academic ML into industry-ready work.<br><br>🌱 I’m currently learning<br>Machine Learning fundamentals, Python for data science, basic research reading, and disciplined problem-solving (not tutorial-hopping).<br><br>💬 Ask me about<br>Python basics, beginner ML concepts, recommender systems, hackathons, learning AI from scratch, and how not to get lost while learning AI.<br><br>⚡ Fun fact<br>I’m more interested in building things that work than pretending to know everything—and I’m brutally honest about my learning gaps.
+AI/ML enthusiast focused on building and analyzing machine learning systems. I value structured experimentation, clean implementation, and continuous improvement over hype.
+.
+
+🎯 Interests
+
+Machine Learning & Deep Learning
+
+Computer Vision & Applied ML Systems
+
+Recommender Systems
+
+Research-driven experimentation
+
+Algorithmic problem solving
+
 
 
 ## 🌐 Socials:
